@@ -15,8 +15,8 @@
 - **Programming Languages:** Python, JavaScript, etc.
 - **Web Development:** MERN Stack (MongoDB, Express.js, React, Node.js)
 - **Machine Learning:** TensorFlow, scikit-learn, etc.
-- **IoT:** [Specific technologies or platforms you're using]
-- **3D Art:** [Tools or software you use for 3D art]
+- **IoT:** arduino
+- **3D Art:** Blender
 
 ## Get in Touch
 
