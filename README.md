@@ -22,6 +22,7 @@
 
 - 📧 Email: prithamdevaprasad@gmail.com
 - linkedin: https://www.linkedin.com/in/pritham-devaprasad-83313023a/
+- instagram: https://www.instagram.com/prith.blendz/?hl=en
 
 ## Badges
 <p>
