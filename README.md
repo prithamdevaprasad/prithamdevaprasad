@@ -12,7 +12,7 @@
 
 ## Skills
 
-- **Programming Languages:** Python, JavaScript, etc.
+- **Programming Languages:** Python, JavaScript,C/C++,Java.
 - **Web Development:** MERN Stack (MongoDB, Express.js, React, Node.js)
 - **Machine Learning:** TensorFlow, scikit-learn, etc.
 - **IoT:** arduino
