@@ -1,16 +1,26 @@
-### Hi there 👋
+# PRITHAM DEVAPRASAD
 
-<!--
-**prithamdevaprasad/prithamdevaprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello there! I'm PRITHAM DEVAPRASAD, a computer science student with a specialization in AI and ML. I'm passionate about exploring the intersections of technology and creativity.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying Computer Science with a focus on Artificial Intelligence and Machine Learning.
+- 🌐 Currently learning MERN (MongoDB, Express.js, React, Node.js) stack for web development.
+- 🤖 Working on a Machine Learning and Internet of Things (IoT) project.
+- 🎨 Fun fact: I'm also a 3D artist, blending technology with creativity!
+
+
+## Skills
+
+- **Programming Languages:** Python, JavaScript, etc.
+- **Web Development:** MERN Stack (MongoDB, Express.js, React, Node.js)
+- **Machine Learning:** TensorFlow, scikit-learn, etc.
+- **IoT:** [Specific technologies or platforms you're using]
+- **3D Art:** [Tools or software you use for 3D art]
+
+## Get in Touch
+
+- 📧 Email: prithamdevaprasad@gmail.com
+- linkedin: https://www.linkedin.com/in/pritham-devaprasad-83313023a/
+
+## Badges
